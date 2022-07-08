@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Подборка фильмов</title>
+		<link rel="stylesheet" href="/static/result.css">
+	</head>
+	<body>
+		<div class="container">
+			<div class="filler">
+			</div>
+			<span class="movie-title">{{context.film}}</span>
+			<br><br>
+			<!-- <img src="https://thumbs.dfs.ivi.ru/storage15/contents/9/e/f3a25f73245bcd55c47cb94ab05009.jpg/234x360/"> -->
+			<img src="{{context.image}}">
+			<br><br>
+			<form action="/newresult" method="get">
+				<button class="baton_dr">Другой</button>
+			</form>
+			<br><br>
+			<form action="/" method="get">
+				<button class="baton">Заново</button>
+			</form>
+		</div>
+	</body>
+</html>

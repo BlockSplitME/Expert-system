@@ -1,0 +1,194 @@
+{
+	"results" : [
+		{
+			"film" : ["Звонок", "Заклятие", "Астрал", "Избави нас от лукавого", "Паранормальное явление"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage8/contents/e/2/33add0b615a3e39877fe442f82893d.jpg/234x360/",
+			 "https://thumbs.dfs.ivi.ru/storage3/contents/d/c/2ab2bfecb7114ae86bf05ecc1ca2d0.jpg/234x360/",
+			 "https://thumbs.dfs.ivi.ru/storage39/contents/a/9/e2ff1b6e16264b115770f48adb60f2.jpg/234x360/",
+			 "https://thumbs.dfs.ivi.ru/storage9/contents/d/9/8a6952a5fc633accbcc194d6ee4a54.jpg/234x360/",
+			 "https://thumbs.dfs.ivi.ru/storage23/contents/c/9/24710ff7cb93517cdd810fa0cf83d5.jpg/234x360/"],
+			"shortNames" : ["Компания", "Ночь", "Чтобынеуснуть", "Паранормальное"]
+		},
+		{
+			"film" : ["Визит", "Прочь", "Солнцестояние"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage15/contents/1/0/e77b163b0eabe0b3de4ed0b454598d.jpg/234x360/",
+			 "https://thumbs.dfs.ivi.ru/storage30/contents/2/9/4c266b2ecaca357c54aa3746bfd198.jpg/234x360/",
+			 "https://thumbs.dfs.ivi.ru/storage2/contents/8/d/700dd002cba36315c7880e073cedd7.jpg/234x360/"],
+			"shortNames" : ["Компания", "Ночь", "Чтобынеуснуть", "Ближекреальности"]
+		},
+		{
+			"film" : ["Кошмар на улице вязов", "Пятница 13", "Пила"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage38/contents/f/8/f9db4d391cfedeca1c04e03df7a6b8.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage15/contents/2/d/47dd7f3c1daf596093c123dca28756.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage6/contents/0/d/c035f3eaabcfe62176a6cc6ac77b02.jpg/234x360/"],
+			"shortNames" : ["Компания", "Ночь", "Слэшер","Классикаслешер"]
+		},
+		{
+			"film" : ["Судная ночь", "Клаустрофобы", "Они"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage6/contents/c/0/93b20642a9707b3833ffb36796dd18.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage26/contents/7/9/5b4f3f5bf9039bd6aff84c1ee2bd86.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage26/contents/7/f/e2c15f26c4b5b9e779fab0f029e462.jpg/234x360/"],
+			"shortNames" : ["Компания", "Ночь", "Слэшер", "Чтотоновое"]
+		},
+		{
+			"film" : ["Эйс Вентура", "Маска", "Всегда говори, да"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage30/contents/6/9/1bf8d2bf4d3fd2e5bd214b4551725b.jpg/234x360/",
+			 "https://thumbs.dfs.ivi.ru/storage15/contents/c/8/a4602259537a2d9f8407356be842f7.jpg/234x360/", 
+			 "https://thumbs.dfs.ivi.ru/storage26/contents/7/c/79929578b7b173214f79de7a847bec.jpg/234x360/"],
+			"shortNames" : ["Компания", "День", "Посмеяться", "СJimKerry"]
+		},
+		{
+			"film" : ["Мачо и ботан", "Впритык", "Мальчишник в Вегасе"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage33/contents/7/a/702f23ca43964e6ac8eec2e80c94fb.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage28/contents/3/c/94bed2130adcd300339ef068b0e5e7.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage6/contents/4/3/43f114cad9ef35198f9d6a63e2a7b4.jpg/234x360/"],
+			"shortNames" : ["Компания", "День", "Посмеяться", "Новыекомедии"]
+		},
+		{
+			"film" : ["Человек-Паук", "Мстители", "Лига справедливости"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage33/contents/5/7/e0a397a4e51905283a5fc6689287fe.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage37/contents/9/7/f6bc2fcb3e18c8e77f4ab65c03961e.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage38/contents/d/a/118f899a867af9d79c47e648b34580.jpg/234x360/"],
+			"shortNames" : ["Компания", "День", "Блокбастер", "Супергерои"]
+		},
+		{
+			"film" : ["Годзилла", "Тихоокеанский рубеж", "Веном", "Кинг Конг"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage23/contents/b/3/2282ddbb2ae4cc0da35afd0d87ed73.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage32/contents/d/4/2fc0099cdecc661e654395d7056514.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage8/contents/9/0/5517f2eb675b7e4785ebe48972eb3d.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage8/contents/5/9/019b7f24325cb59801d5848edaa1ab.jpg/234x360/"],
+			"shortNames" : ["Компания", "День", "Блокбастер", "Монстры"]
+		},
+		{
+			"film" : ["В метре друг от друга", "Виноваты звезды", "До встречи с тобой"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage23/contents/5/9/5fa49e2c652e086240d8fe6ee1defe.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage9/contents/e/6/6a25104b23aa111371bb8338b34103.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage6/contents/6/5/d4b509d75b2ae629b8efb4fc3ec58a.jpg/234x360/"],
+			"shortNames" : ["Пара", "Романтика", "Прослезиться","любовь"]
+		},
+		{
+			"film" : ["Хорошие дети не плачут"],
+			"image" : ["//upload.wikimedia.org/wikipedia/ru/thumb/1/1c/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D0%B4%D0%B5%D1%82%D0%B8_%D0%BD%D0%B5_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%82%C2%BB.jpg/210px-%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D0%B4%D0%B5%D1%82%D0%B8_%D0%BD%D0%B5_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%82%C2%BB.jpg"],
+			"shortNames" : ["Пара", "Романтика", "Прослезиться","дружба"]
+		},
+		{
+			"film" : ["Секс в большом городе"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage8/contents/3/2/f3eb84192efc77289f73e35532ce3b.jpg/234x360/"],
+			"shortNames" : ["Пара", "Романтика", "Комедия","По роману"]
+		},
+		{
+			"film" : ["Назови меня своим именем", "Пара на праздники", "Влюбиться в человека. Игорь Николаев","Зависнуть в ПалмСпрингс"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage33/contents/7/1/e561443d41564889fd633937a4f196.jpg/234x360/",
+				"//avatars.mds.yandex.net/get-entity_search/2273637/472846934/S134x201_2x",
+				"data:image/jpeg;base64,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",
+				"https://thumbs.dfs.ivi.ru/storage30/contents/4/e/3466e5b77b12d3102a55b18a88c78f.jpg/234x360/"],
+			"shortNames" : ["Пара", "Романтика", "Комедия","По игорю"]
+		},
+		{
+			"film" : ["Дневник памяти", "После 3", "50 оттенков серого"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage9/contents/f/c/332890d3d53efc9e529bff1f64b9db.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage15/contents/0/b/3f1675475cccf86b5e3ecbb5eb3bd5.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage6/contents/0/5/7a613385c61c7318e09d06fd4f3125.jpg/234x360/"],
+			"shortNames" : ["Пара", "Драма", "Милая","Сильнаялюбовь"]
+		},
+		{
+			"film" : ["После", "Красавица и чудовище", "Весь этот мир"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage33/contents/7/0/0121770bab053001add1ccb337668a.jpg/234x360/", 
+				"https://thumbs.dfs.ivi.ru/storage6/contents/6/1/ebccf2e52060401b9fa3142fe0e333.jpg/234x360/", 
+				"https://thumbs.dfs.ivi.ru/storage38/contents/1/e/5ee2912ccc47a56347b6bfb4faeac1.jpg/234x360/"],
+			"shortNames" : ["Пара", "Драма", "Милая","Начало отношений"]
+		},
+		{
+			"film" : ["Все радостные места", "Сумашедшая любовь"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage32/contents/d/6/84b7e32af8bb5fc26b32ff7b2e29b7.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage32/contents/4/d/62275036bff83a3bc6a4bc18dbd203.jpg/234x360/"],
+			"shortNames" : ["Пара", "Драма", "Напряженная","Психологическая"]
+		},
+		{
+			"film" : ["Темный рыцарь", "Король лев", "1917"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage6/contents/0/a/aed997c1c44680fe99ae878988dcf8.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage2/contents/5/e/d7884a911a93f529fedbba07052b43.jpg/234x360/",
+				"https://thumbs.dfs.ivi.ru/storage39/contents/0/c/10b9b1637315b5fa900933193d4139.jpg/234x360/"],
+			"shortNames" : ["Пара", "Драма", "Напряженная","Героическая"]
+		},		{
+			"film" : ["Шрек"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage15/contents/9/e/f3a25f73245bcd55c47cb94ab05009.jpg/234x360/"],
+			"shortNames" : ["Один", "Длядуши", "шрек14","шрек1"]
+		},
+		{
+			"film" : ["Шрек навсегда"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage26/contents/2/3/9e4f8ce3fb0cf88566771afa1d98f0.jpg/234x360/"],
+			"shortNames" : ["Один", "Длядуши", "шрек14","шрек4"]
+		},
+		{
+			"film" : ["Шрек третий"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage26/contents/6/1/6615c51311ef3965943d704097f110.jpg/234x360/"],
+			"shortNames" : ["Один", "Длядуши", "шрек23","шрек3"]
+		},
+		{
+			"film" : ["Шрек 2"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage6/contents/2/3/cc9fca1a2371d949c5f30fbc077adb.jpg/234x360/"],
+			"shortNames" : ["Один", "Длядуши", "шрек23","шрек2"]
+		},
+		{
+			"film" : ["Не дыши", "Преступть черту", "Платформа"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage9/contents/0/d/e548b6e700ec47c35392bce01ab564.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage4/contents/8/e/d9157f643ce72713d661ec5a245060.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage31/contents/1/1/88fe46f08ce39aa34ec99e1c225a86.jpg/234x360/"],
+			"shortNames" : ["Один", "Передсном", "Держит в напряжении", "Триллер"]
+		},
+		{
+			"film" : ["Пассажир", "Достать ножи", "Девушка с татуировкой дракона", "Остров проклятых"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage28/contents/6/3/c57599919a7250b5d5ffcafcfcb491.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage3/contents/4/b/f065a5eea9c2de7821bbabb5679079.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage8/contents/4/8/4529f16cadcffcbe4ae8726d32632c.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage32/contents/b/a/7c0e13ff331ef724ffb4cc1aec6049.jpg/234x360/"],
+			"shortNames" : ["Один", "Передсном", "Держит в напряжении", "Детектив"]
+		},
+		{
+			"film" : ["Крепкий орешек", "Перевозчик", "Форсаж", "Риддик"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage33/contents/f/5/bc0cec71803b19e2b5bd19649788a0.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage6/contents/0/1/4b44b18d9f428b9401dbe0e22d97c9.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage6/contents/8/e/8378eaec96b61919599b0df60d2fec.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage6/contents/a/8/e5503a5b5a33d22ab20185894fe939.jpg/234x360/"],
+			"shortNames" : ["Один", "Передсном", "Противостояние", "Крутой лысый мужик"]
+		},
+		{
+			"film" : ["Властелин колец", "Ведьмак", "Звездные войны"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage33/contents/1/7/8b73cdb1b8810e40a6b2c5cde1ac58.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage26/contents/e/3/9b746fd93ecd6686289ceec402edb4.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage38/contents/b/4/13df1f2beb3494f476c7c54dd62f01.jpg/234x360/"],
+			"shortNames" : ["Один", "Передсном", "Противостояние", "Фантастика"]
+		},
+		{
+			"film" : ["Паддингтон", "Миссия Дарвина","Элвин и бурундуки","Гарфилд", "Стюарт Литтл", "101 далматинец"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage3/contents/2/b/fdcadcd225c8ed49629c34b5d1d69d.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage4/contents/3/e/c45cb6499479e2769f26c950b5b9f6.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage26/contents/b/d/023324fb436f67f785f8e026bfa001.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage32/contents/d/c/e9e3888d15c0da7be67369f99cb63d.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage30/contents/7/3/0e72d9a5837405c7fe1a084a509a89.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage15/contents/d/0/76a72953a12fc8a3321bb0161a0c53.jpg/234x360/"],
+			"shortNames" : ["Сдетьми", "Фильмы", "Приключения","проживотных"]
+		},
+		{
+			"film" : ["Жизнь Пи", "Один дома"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage4/contents/4/7/5e8384df44e141af8e32ab95a0380e.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage3/contents/3/3/fd20b169b95062c6f2354ad9abc9f4.jpg/234x360/"],
+			"shortNames" : ["Сдетьми", "Фильмы", "Приключения","Пролюдей"]
+		},
+		{
+			"film" : ["Гарри Поттер", "Гринч", "Последний богатырь", "Алиса в стране чудес", "Малефисента", "Золушка", "Красавица и чудовище"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage8/contents/8/6/fd51b8c03fcb89c6fbeb28e9204d9c.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage38/contents/4/a/5888ef705407c85ee1f8c0a39717d5.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage23/contents/d/0/9843fa841a7905f7d8f30b1b8f5edd.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage6/contents/9/2/aa91f2242c0481a4581c3aeb6f4c89.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage9/contents/0/6/9594410f35c2225971e0babb5b5e0f.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage9/contents/5/d/d5f754594db06bd0033de8062d7891.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage6/contents/6/1/ebccf2e52060401b9fa3142fe0e333.jpg/234x360/"],
+			"shortNames" : ["Сдетьми", "Фильмы", "ФантастикаДляДетей","Сказка"]
+		},
+		{
+			"film" : ["Человек-Паук", "Маска", "Черепашки-ниндзя", "Астерикс и Обеликс"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage33/contents/5/7/e0a397a4e51905283a5fc6689287fe.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage15/contents/c/8/a4602259537a2d9f8407356be842f7.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage28/contents/5/d/1b1a29c5a07b6b9812ddb7783b7e5c.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage29/contents/0/5/cda1341dbfe7017b0d3d355b627805.jpg/234x360/"],
+			"shortNames" : ["Сдетьми", "Фильмы", "ФантастикаДляДетей","Комикс"]
+		},
+		{
+			"film" : ["Маша и медведь", "Три богатыря", "Три кота", "Волки и овцы"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage31/contents/d/9/9c591720da8f0ec06fd6f7edf90b0b.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage8/contents/9/7/fbcd14375194b66200eb2ff14f2936.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage32/contents/3/a/d93790b220d540a15769e5336e85b3.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage4/contents/0/0/6f0ed30b9a3ed1d0ede3c22aee6c06.jpg/234x360/"],
+			"shortNames" : ["Сдетьми", "Мультики", "Отечественные","Новыемультики"]
+		},
+		{
+			"film" : ["Ну, погоди", "Винни Пух", "Остров сокровищ", "Каникулы в простоквашино", "Малыш и Карлсон", "Маугли", "Летучий корабль"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage9/contents/9/1/1ab92ebf18f1b028851388ee467ad3.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage28/contents/6/2/bfa101af6e992dedd9496ac25e54ed.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage8/contents/6/7/e37a7360cb8dcb684d19f81614a2fe.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage38/contents/1/6/e98d1831a1dee0ed118f52b1b650e0.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage28/contents/3/4/61ea2b9b40083cfeb75e8845e41c13.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage39/contents/3/8/46ec83364b535138453d48934cbc15.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage28/contents/7/1/c0882d74b6e78b8325f7aca4dba96a.jpg/234x360/"],
+			"shortNames" : ["Сдетьми", "Мультики", "Отечественные","Старыемультики"]
+		},
+		{
+			"film" : ["ВАЛЛ-И", "Храбрая сердцем", "Бэмби", "Белоснежка и семь гномов", "Алладин"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage4/contents/1/d/317c63c84c8b7fc0db13be7966e8b8.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage6/contents/3/0/86ff835474963a3700f938bff494af.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage33/contents/a/8/19b2e986a5d9fa446c58e523833ddd.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage4/contents/c/1/be96b00fb0d68fcf0715cdf622f70e.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage3/contents/6/9/7a424fdfd23ed3884e3abf9a75006d.jpg/234x360/"],
+			"shortNames" : ["Сдетьми", "Мультики", "Зарубежные", "Disney"]
+		},
+		{
+			"film" : ["Дорога на Эльдорадо", "Губка Боб Квадратные Штаны", "Балто", "Как приручить дракона"],
+			"image" : ["https://thumbs.dfs.ivi.ru/storage38/contents/b/9/8d9d6e153e69600e9d916e122be0d3.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage32/contents/1/1/24e317e380f8a6bf033e25c3b47cc9.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage9/contents/4/b/e1cdc9f856f177f0417254da6d4045.jpg/234x360/", "https://thumbs.dfs.ivi.ru/storage33/contents/4/b/0f86d6a8a099fdab64267e65c39447.jpg/234x360/"],
+			"shortNames" : ["Сдетьми", "Мультики", "Зарубежные", "Другие"]
+		}
+	]
+}
