@@ -2,7 +2,7 @@ from ai import ArtificialIntelligence
 from flask import Flask, redirect, render_template, request, jsonify
 import numpy as np
 
-way = "db/"
+way = "ai/db/"
 allQuestionsFile = way+"AllQuestions.json"
 mainQuestionsFile = way+"MainQuestions.json"
 resultsFile = way+"Results.json"
